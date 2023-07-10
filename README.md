@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PROFILE&fontAlign=70)
 <h2 align="center">⋆｡ﾟ✶°Mobile App Developer⋆｡ﾟ✶°</h2>
+<a href="https://www.notion.so/6101f4c03902414eb086e5deb9792d76" target="_blank"><img src="https://img.shields.io/badge/#000000?style=뱃지모양&logo=#000000&logoColor=#000000"/></a>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-<a href="[버튼을 눌렀을 때 이동할 링크](https://www.notion.so/6101f4c03902414eb086e5deb9792d76)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=#000000&logoColor=#000000"/></a>
+
