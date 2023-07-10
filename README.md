@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PROFILE&fontAlign=70)
+<h2 align="center">⋆｡ﾟ✶°Mobile App Developer⋆｡ﾟ✶°</h2>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
