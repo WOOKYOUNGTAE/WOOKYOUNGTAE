@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PROFILE&fontAlign=70)
 <h2 align="center">⋆｡ﾟ✶°Mobile App Developer⋆｡ﾟ✶°</h2>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=firebase&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=firebase&logoColor=white"/><p align="center">https://www.notion.so/6101f4c03902414eb086e5deb9792d76</p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
